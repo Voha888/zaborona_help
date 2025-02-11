@@ -1310,6 +1310,7 @@ push "route 62.113.120.0 255.255.248.0" # AS6903 (Rusonyx, Ltd.)
 push "route 195.2.88.0 255.255.252.0" # AS6903 (Rusonyx, Ltd.)
 push "route 195.2.70.0 255.255.255.0" # AS48282	(Hosting technology LTD)
 push "route 195.2.72.0 255.255.255.0" # AS6903 (Rusonyx, Ltd.)
+push "route 195.2.77.0 255.255.255.0" # AS6903 (Rusonyx, Ltd.)
 push "route 185.48.236.0 255.255.252.0" # AS205952 (Rusonyx, Ltd.)
 push "route 213.189.200.0 255.255.255.0" # AS6903 (Rusonyx, Ltd.)
 push "route 62.113.86.0 255.255.255.0" # AS6903	(Rusonyx, Ltd.)
@@ -1863,6 +1864,18 @@ push "route 178.218.212.0 255.255.252.0" # Hosting Operator eServer.ru Ltd.
 # zaycev.net
 push "route 176.58.32.0 255.255.252.0" # MnogoByte LLC
 #push "route 185.165.123.0 255.255.255.0" # Variti LLC
+
+# consultant.ru
+push "route 194.105.130.0 255.255.254.0"
+
+# nic.ru
+push "route 31.177.80.0 255.255.255.0"
+
+# kentavr.com.ru
+push "route 185.123.192.0 255.255.254.0"
+
+# servicepipe.ru
+push "route 185.169.152.0 255.255.252.0"
 
 # ~~~ NEW 2022-12-26 ~~~ #
 # usbtor.ru
@@ -3019,6 +3032,20 @@ push "route 77.73.64.0 255.255.248.0"
 
 # 3dnews.ru (2 Exitec GmbH)
 push "route 91.210.107.31 255.255.255.255"
+
+# SERVICEPIPE LLC AS201706
+push "route 109.238.88.0 255.255.252.0" # Pioneernet
+push "route 91.206.126.0 255.255.254.0" # Schelkovo-NET
+
+# AdminVPS
+push "route 185.250.44.0 255.255.255.0" # AS211183
+push "route 37.140.241.0 255.255.255.0" # AS211183
+
+# PJSC MegaFon
+push "route 195.144.251.0 255.255.255.0" # AS20632
+
+# INSYS LLC
+push "route 82.151.216.0 255.255.248.0" # AS28890
 
 ### HOSTINGS ###
 
